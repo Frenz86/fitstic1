@@ -1,7 +1,8 @@
 import pandas as pd
 
-dizionario = {'a':[1,2,3],
-              'b':[5,6,7],
+dizionario = {'a':[6,6,6],
+              'b':[6,6,6],
               }
 
-df = pd.DataFrame(dizionario)
+df1 = pd.DataFrame(dizionario)
+df2 = pd.DataFrame(dizionario)
